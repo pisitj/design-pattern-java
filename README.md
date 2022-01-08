@@ -6,7 +6,7 @@ Example of design pattern in Java
 2. run - java MainApp
 
 # Reference
-# Behavioral Design Pattern
+### Behavioral Design Pattern
 - [Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility/java/example)
 - [Command - Queue](https://www.tutorialspoint.com/design_pattern/command_pattern.htm)
 - [Command - Undo](https://refactoring.guru/design-patterns/command/java/example#example-0)
